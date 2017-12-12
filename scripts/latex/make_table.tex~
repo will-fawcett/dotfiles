@@ -1,0 +1,10 @@
+
+%\documentclass{article}
+\documentclass[varwidth=true, border=10pt, convert={size=640x}]{standalone} % meant to make png, doesn't seem to
+%\documentclass[varwidth=true, border=10pt]{standalone}
+
+\begin{document}
+
+\input{\tablefile}
+
+\end{document}

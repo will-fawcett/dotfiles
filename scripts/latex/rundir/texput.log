@@ -1,0 +1,21 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.8.28)  10 JUN 2015 13:55
+entering extended mode
+ %&-line parsing enabled.
+**\def\tablefile{/data/atlas/atlasdata/kalderon/HistFitterTutorial/UpperLimitTable_SS_nToys1000.tex} \input{make_table.tex}
+(\end occurred when \ifx was incomplete)
+(\end occurred when \ifx was incomplete) 
+Here is how much of TeX's memory you used:
+ 4 strings out of 256216
+ 126 string characters out of 1917072
+ 48804 words of memory out of 1500000
+ 3391 multiletter control sequences out of 10000+200000
+ 3640 words of font info for 14 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 4i,0n,3p,125b,8s stack positions out of 5000i,500n,6000p,200000b,15000s
+
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

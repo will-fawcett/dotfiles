@@ -1,0 +1,128 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.29)  11 JUN 2015 09:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\def\tablefile{/home/fawcett/oxford/practise/HistFitter/HistFitter47/systable
+_SS_2.tex} \input{../make_table.tex}
+(../make_table.tex
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/latex/st
+andalone/standalone.cls
+Document Class: standalone 2012/09/15 v1.1b Class to compile TeX sub-files stan
+dalone
+
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/generic/
+oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/generic/
+oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/generic/
+ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/latex/xk
+eyval/xkeyval.sty
+Package: xkeyval 2014/05/25 v2.7 package option processing (HA)
+
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/generic/
+xkeyval/xkeyval.tex
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/generic/
+xkeyval/xkvutils.tex
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/generic/
+xkeyval/keyval.tex))
+\XKV@depth=\count79
+File: xkeyval.tex 2014/05/25 v2.7 key=value parser (HA)
+))
+\sa@internal=\count80
+
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/latex/st
+andalone/standalone.cfg
+File: standalone.cfg 2012/09/15 v1.1b Default configuration file for 'standalon
+e' class
+)
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/latex/ba
+se/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/latex/ba
+se/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/network/software/linux-x86_64/office/texlive/20141029/texmf-dist/tex/latex/va
+rwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box26
+\sift@deathcycles=\count89
+\@vwid@loff=\dimen103
+\@vwid@roff=\dimen104
+)
+\sa@box=\box27
+) (./make_table.aux)
+\openout1 = `make_table.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(/home/fawcett/oxford/practise/HistFitter/HistFitter47/systable_SS_2.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+)
+[1
+
+{/network/software/linux-x86_64/office/texlive/20141029/texmf-var/fonts/map/pdf
+tex/updmap/pdftex.map}] (./make_table.aux) ) 
+Here is how much of TeX's memory you used:
+ 737 strings out of 493109
+ 12815 string characters out of 6121121
+ 79555 words of memory out of 5000000
+ 4250 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,12n,56p,284b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
+</network/software/linux-x86_64/off
+ice/texlive/20141029/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></net
+work/software/linux-x86_64/office/texlive/20141029/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmex10.pfb></network/software/linux-x86_64/office/texlive/2014102
+9/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></network/software/linux
+-x86_64/office/texlive/20141029/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></network/software/linux-x86_64/office/texlive/20141029/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr7.pfb></network/software/linux-x86_64/office/texlive
+/20141029/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on make_table.pdf (1 page, 65447 bytes).
+PDF statistics:
+ 32 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

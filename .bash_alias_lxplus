@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Movement
+alias data='cd /afs/cern.ch/work/w/wfawcett'
+alias golinks='cd /afs/cern.ch/user/w/wfawcett/private/ServiceWork/linkErrors/'
+alias ipin='cd /afs/cern.ch/user/w/wfawcett/private/ServiceWork/new_IPIN'

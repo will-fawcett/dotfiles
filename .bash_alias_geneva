@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+alias data='cd /atlas/data4/userdata/wfawcett'
+alias delphes='cd /atlas/users/wfawcett/fcc/delphes'
+alias fcc='cd /atlas/users/wfawcett/fcc'

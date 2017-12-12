@@ -1,0 +1,43 @@
+#!/usr/bin/bash
+
+# ATLAS / ROOT
+alias setupATLAS='source ${ATLAS_LOCAL_ROOT_BASE}/user/atlasLocalSetup.sh'
+alias root='root -l'
+alias tb='tbrowser'
+
+# pretty errors/warnings 
+alias make='~/scripts/pretty_make.sh'
+alias rc='~/scripts/pretty_rc.sh'
+alias cmt='~/scripts/pretty_cmt.sh'
+#alias run='~/scripts/pretty_run.sh'
+
+# Editors
+alias vi='vim -p'
+alias em='emacs -nw'
+alias nw='emacs -nw'
+
+# Misc
+alias c='clear'
+alias ev='evince'
+alias svnkinit="kinit wfawcett@CERN.CH"
+alias p='python'
+alias sctdcs='rdesktop -g 1280x980 cerntsatldcs'
+alias untar='tar xvf'
+alias twatch='watch tail -n 30'
+
+# File system
+alias ll='ls -lh'
+alias la='ls -lah'
+alias lt='ls -ltrh'
+alias lf="ls -l | egrep -v '^d'" # list files only
+alias ldir="ls -l | egrep '^d'" # list directories only
+
+alias cgrep='grep --color -n --exclude-dir=".svn"'
+
+alias ..="cd .."
+alias ..2="cd ../.."
+alias ..3="cd ../../.."
+alias ..4="cd ../../../.."
+alias ..5="cd ../../../../.."
+
+alias unige="ssh wfawcett@atlas.unige.ch"

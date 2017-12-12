@@ -1,0 +1,14 @@
+#!/usr/bin/python
+
+def main(verbose):
+
+if __name__ == "__main__":
+
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-v", "--verbose", help="Turn on verbose messages", action="store_true", default=False)
+    args = parser.parse_args()
+    verbose = args.verbose
+
+    main(verbose)
+
